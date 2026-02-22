@@ -46,7 +46,7 @@ Tidak memerlukan library tambahan.
 
 Clone repository:
 
-git clone https://github.com/username/python-data-structure-practice.git
+git clone https://github.com/Luminazell/Tugas-Struktur-Data-2
 
 Masuk ke folder project:
 
